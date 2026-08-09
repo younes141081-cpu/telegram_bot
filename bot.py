@@ -16,7 +16,7 @@ import time
 # TOKEN
 # =========================
 
-TOKEN = "8894191072:AAHhwrg-3sBtG6k9tZZIOoXY50ytEriiYbM"
+
 
 
 # =========================
